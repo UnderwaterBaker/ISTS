@@ -1,7 +1,7 @@
 *works on my machine*
 
 1. Download and install MSBuild tools https://aka.ms/vs/17/release/vs_BuildTools.exe
-    - Under "Individual Components" in the installer check the latest version of MSVC.
+    - Under "Individual Components" in the installer check the latest version of MSVC and Windows 11 SDK.
 3. Download this repo
 4. Open "x64 Native Tools Command Prompt for VS 2022"
 5. Go to downloaded repo
